@@ -25,6 +25,8 @@ Strip 001 - 005 have 150 led.
 
 ## Cloud
 
+Same as LED Strip but have led 16.
+
 Mqtt topic
 
 * TECH\_FEST/CLOUD\_001
