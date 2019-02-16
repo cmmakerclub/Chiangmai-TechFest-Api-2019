@@ -13,7 +13,7 @@ LED Strip Api go [here](https://github.com/cmmakerclub/led_mqtt)
 
 Mqtt topic
 
-* TECH\_FEST/LED\_MAIN_STRIP
+* TECH\_FEST/LED_STRIP\_000
 * TECH\_FEST/LED_STRIP\_001
 * TECH\_FEST/LED_STRIP\_002
 * TECH\_FEST/LED_STRIP\_003
