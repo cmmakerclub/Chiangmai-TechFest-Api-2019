@@ -20,6 +20,9 @@ Mqtt topic
 * TECH\_FEST/LED_STRIP\_004
 * TECH\_FEST/LED_STRIP\_005
 
+Strip 000 have 600 led.
+Strip 001 - 005 have 150 led.
+
 ## Cloud
 
 Mqtt topic
