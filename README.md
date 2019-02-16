@@ -92,3 +92,13 @@ Or send form with file name **avatar** type image to
 [Look here](http://178.128.223.52:3001/upload_picture)
 
 [See more here](https://github.com/cmmakerclub/Termal-printer-project)
+
+
+## FIRER
+
+Try use firer as command in all led.
+
+eg
+
+	TECH_FEST/LED_STRIP_001/$/firer
+	
