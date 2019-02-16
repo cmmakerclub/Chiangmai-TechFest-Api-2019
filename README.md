@@ -31,6 +31,18 @@ Mqtt topic
 * TECH\_FEST/CLOUD\_002
 * TECH\_FEST/CLOUD\_003
 
+## PLUG
+
+Mqtt topic
+
+* TECH\_FEST/PLUG_004
+* TECH\_FEST/PLUG_005
+* TECH\_FEST/PLUG_006
+
+Payload
+
+	ON
+	OFF
 
 ## Thermocouple
 
