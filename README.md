@@ -48,13 +48,14 @@ Or send data by make **hex String** with 2048 char to **$/command**
 
 Mqtt topic
 
-* TECH\_FEST/LED\_PICTURE\_001
-* TECH\_FEST/LED\_PICTURE\_002
+* TECH\_FEST/LCD\_PICTURE\_001
+* TECH\_FEST/LCD\_PICTURE\_002
+* TECH\_FEST/LCD\_PICTURE\_003
 
 
 Example
 
-	TECH_FEST/LED_PICTURE_001/$/command
+	TECH_FEST/LCD_PICTURE_001/$/command
 	
 	Send data
 	
