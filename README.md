@@ -61,7 +61,7 @@ Example
 	
 
 
-## Termal printer
+## Thermal printer
 
 Add line cmmc_messageing
 
